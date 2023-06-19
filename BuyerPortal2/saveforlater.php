@@ -301,7 +301,7 @@ include("../Functions/functions.php");
                 <div class="card pl-3 pr-3 pb-0 pt-2 mt-2 ">
                     <br>
                     <div><b>
-                            <h3><img src="iconsmall.png"> samar
+                            <h3><img src="iconsmall.png"> Rawan
                         </b>
                        <button class="cross" style="border-style:none;background-color:transparent;"><i class="fas fa-times"style=""></i></button>
                         </h3>
@@ -327,7 +327,7 @@ include("../Functions/functions.php");
                 <div class="card  pl-3 pr-3 pb-0 pt-2 mt-2 ">
                     <br>
                     <div><b>
-                            <h3><img src="iconsmall.png"> samar
+                            <h3><img src="iconsmall.png"> Rawan
                         </b></h3>
                     </div>
                     <img class="card-img-top pic" src="myfruit1.jfif" alt="Card image cap">
@@ -348,7 +348,7 @@ include("../Functions/functions.php");
                 <div class="card pl-3 pr-3 pb-0 pt-2 mt-2  ">
                     <br>
                     <div><b>
-                            <h3><img src="iconsmall.png"> samar
+                            <h3><img src="iconsmall.png"> Rawan
                         </b></h3>
                     </div>
                     <img class="card-img-top" src="myfruit4.jfif" alt="Card image cap">
@@ -440,8 +440,8 @@ include("../Functions/functions.php");
             </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center">
-                    <p><u><a href="#">samar Corporation</a></u> </p>
-                    <p class="h6">Copy All right Reversed.<a class="text-green ml-2" href="https://www.google.com" target="_blank">samar</a></p>
+                    <p><u><a href="#">Rawan Corporation</a></u> </p>
+                    <p class="h6">Copy All right Reversed.<a class="text-green ml-2" href="https://www.google.com" target="_blank">Rawan</a></p>
                 </div>
                 </hr>
             </div>

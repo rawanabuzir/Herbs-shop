@@ -887,8 +887,8 @@ margin-top:2%;
                </div>
                <div class="row">
                     <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center">
-                         <p><u><a href="#">samar Corporation</a></u> </p>
-                         <p class="h6">Copy All right Reversed.<a class="text-orange ml-2" href="#" target="_blank">samar</a></p>
+                         <p><u><a href="#">Rawan Corporation</a></u> </p>
+                         <p class="h6">Copy All right Reversed.<a class="text-orange ml-2" href="#" target="_blank">Rawan</a></p>
                     </div>
                     </hr>
                </div>
