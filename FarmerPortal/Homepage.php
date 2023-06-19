@@ -825,15 +825,15 @@
 
      </div>
      <div class="instaid">
-          <div class="text"><a href="#" style="color:black;">@samar</a></div>
+          <div class="text"><a href="#" style="color:black;">@Rawan</a></div>
 
           <div class="gmailid">
-               <a href="#" class="hypher" style="color:black;">samar@gmail.com</a>
+               <a href="#" class="hypher" style="color:black;">Rawan@gmail.com</a>
           </div>
 
      </div>
      <div class="copy">
-          <h5 style="text-align:center; padding-top:40px;margin-left:650px; background-color:'grey';">Copyright &copy; 2022 by www.samar.com</h5>
+          <h5 style="text-align:center; padding-top:40px;margin-left:650px; background-color:'grey';">Copyright &copy; 2022 by www.Rawan.com</h5>
      </div>
 
 </body>

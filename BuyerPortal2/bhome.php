@@ -1,3 +1,4 @@
+
 <?php
 include("../Functions/functions.php");
 ?>
@@ -668,7 +669,7 @@ include("../Functions/functions.php");
             </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center">
-                    <p><u><a href="#">samar Corporation</a></u> SAMAR</p>
+                    <p><u><a href="#">Rawan Corporation</a></u> SAMAR</p>
                     <p class="h6">Copy All right Reversed.<a class="text-green ml-2" href="https://www.#.com" target="_blank">SAMAR</a></p>
                 </div>
                 </hr>

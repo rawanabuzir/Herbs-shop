@@ -307,7 +307,7 @@ include("../Functions/functions.php");
                 <div class="card border-dark border" >
                     <div class="card-body ">
                         <h5 class="card-title text-center"><img src="iconbig3.png" style=" margin-bottom:  10px;"></h5>
-                        <h4 class="card-subtitle mb-2  text-center">samar</h4>
+                        <h4 class="card-subtitle mb-2  text-center">Rawan</h4>
                         <p class="card-text text-center">amman, jordan<br><br>
                             <button type="button" class="btn  border-dark border" style="background-color:#FFD700;color:black">View Profile </button>
                         </p>
@@ -320,7 +320,7 @@ include("../Functions/functions.php");
                 <div class="card border-dark border" >
                     <div class="card-body ">
                         <h5 class="card-title text-center"><img src="iconbig.png" style=" margin-bottom:  10px;"></h5>
-                        <h4 class="card-subtitle mb-2  text-center">samar1</h4>
+                        <h4 class="card-subtitle mb-2  text-center">Rawan1</h4>
                         <p class="card-text text-center">amman, jordan<br><br>
                             <button type="button" class="btn  border-dark border" style="background-color:#FFD700;color:black">View Profile </button>
                         </p>
@@ -333,7 +333,7 @@ include("../Functions/functions.php");
                 <div class="card border-dark border" >
                     <div class="card-body ">
                         <h5 class="card-title text-center"><img src="iconbig2.png" style=" margin-bottom:  10px;"></h5>
-                        <h4 class="card-subtitle mb-2  text-center">samar2</h4>
+                        <h4 class="card-subtitle mb-2  text-center">Rawan2</h4>
                         <p class="card-text text-center">amman, jordan<br><br>
                             <button type="button" class="btn  border-dark border" style="background-color:#FFD700;color:black">View Profile </button>
                         </p>
@@ -346,7 +346,7 @@ include("../Functions/functions.php");
                 <div class="card border-dark border" >
                     <div class="card-body ">
                         <h5 class="card-title text-center"><img src="iconbig4.png" style=" margin-bottom:  10px;"></h5>
-                        <h4 class="card-subtitle mb-2  text-center">samar3</h4>
+                        <h4 class="card-subtitle mb-2  text-center">Rawan3</h4>
                         <p class="card-text text-center">amman, jordan<br><br>
                             <button type="button" class="btn  border-dark border" style="background-color:#FFD700;color:black">View Profile </button>
                         </p>
@@ -398,8 +398,8 @@ include("../Functions/functions.php");
             </div>
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-2 text-center">
-                    <p><u><a href="#">samar Corporation</a></u> </p>
-                    <p class="h6">Copy All right Reversed.<a class="text-orange ml-2" href="#" target="_blank">samar</a></p>
+                    <p><u><a href="#">Rawan Corporation</a></u> </p>
+                    <p class="h6">Copy All right Reversed.<a class="text-orange ml-2" href="#" target="_blank">Rawan</a></p>
                 </div>
                 </hr>
             </div>

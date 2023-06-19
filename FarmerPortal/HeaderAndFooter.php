@@ -739,10 +739,10 @@
 
      </div>
      <div class="instaid">
-          <div class="text"><a href="#" style="color:black;">@samar</a></div>
+          <div class="text"><a href="#" style="color:black;">@Rawan</a></div>
 
           <div class="gmailid">
-               <a href="#" class="hypher" style="color:black;">samar@gmail.com</a>
+               <a href="#" class="hypher" style="color:black;">Rawan@gmail.com</a>
           </div>
 
      </div>
